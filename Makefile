@@ -1,7 +1,10 @@
 CC = gcc
 FLAGS = -Wall -Wextra -Werror
 
-SRCS = hash.c hashtable.c iterators.c
+SRCS =	./sources/hash.c
+		./sources/hashtable.c
+		./sources/iterators.c
+
 OBJS = $(SRCS:.c=.o)
 
 all: $(OBJS)
