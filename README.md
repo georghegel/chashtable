@@ -1,4 +1,8 @@
-![Logo](./img/kitten-woof.svg)
+[//]: # (![Logo]&#40;./img/kitten-woof.svg&#41;)
+<p align="center">
+  <img alt="Logo" src="./img/kitten-woof.svg"/>
+</p>
+
 
 # chashtable
 C Hash Table is a simple implementation of a hash table for C.<br>
